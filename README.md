@@ -6,4 +6,6 @@
 - 🌱 Always Improving my self in Back-End Web Development.
 - 👀 I’m interested in Technologies, Photographing and Playing Video games ...
 - 📫 My Contact Email: omarkadish@gmail.com
+- 🔗 LinkedIn Profile: https://www.linkedin.com/in/omar-kadish/
+
 
