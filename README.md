@@ -9,9 +9,8 @@
 - 🔗 My Protfolio: https://omarkadish.wordpress.com/
 
 
--![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarKadish&show_icons=true&theme=swift)-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarKadish&show_icons=true&theme=swift)]
 
-<!-- -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKadish&layout=compact&theme=swift)](https://github.com/OmarKadish/github-readme-stats)-
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKadish&layout=compact&theme=swift)](https://github.com/OmarKadish/github-readme-stats)
 
 
