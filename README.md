@@ -13,5 +13,5 @@
  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKadish&layout=compact&theme=swift)](https://github.com/OmarKadish/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@7ff17389-c918-439b-9b81-291fae77221d/4b30a83b-42ca-41a9-9fcf-47d935454b39.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@7ff17389-c918-439b-9b81-291fae77221d/8c38f3cc-c5c1-42df-98d2-674712821669.png" /></a>
 
