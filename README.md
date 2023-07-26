@@ -14,7 +14,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarKadish&theme=dark)](https://git.io/streak-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKadish&layout=compact&theme=swift)](https://github.com/OmarKadish/github-readme-stats) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKadish&layout=compact&theme=swift)](https://github.com/OmarKadish/github-readme-stats) --> 
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=OmarKadish.visitor-badge)
 
 
 <a href="https://wakatime.com"><img style="height: 400px" src="https://wakatime.com/share/@7ff17389-c918-439b-9b81-291fae77221d/8c38f3cc-c5c1-42df-98d2-674712821669.png" /></a>
