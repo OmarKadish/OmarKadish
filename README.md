@@ -6,9 +6,9 @@
 - 🌱 Always Improving my self in Back-End Web Development.
 - 👀 I’m interested in Technologies, Photographing and Playing Video games ...
 - 📫 My Contact Email: omarkadish@gmail.com
-- 🔗 My Protfolio: https://omarkadish.com/
+- 🔗 My Portfolio: https://omarkadish.com/
+- 🔗 My Portfolio: [Omar Kadish](https://omarkadish.github.io/portfolio/)
 - [![wakatime](https://wakatime.com/badge/user/7ff17389-c918-439b-9b81-291fae77221d.svg)](https://wakatime.com/@7ff17389-c918-439b-9b81-291fae77221d) badge by  [@WakaTime](https://github.com/wakatime)
-
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarKadish&show_icons=true&theme=swift) -->
 
