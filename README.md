@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m Omar Kadish
 - 🎓 Graduated from Ankara University Computer Programing.
+- Studying Computer Science (Honors) at University of Windsor.
 - 🔭 I'm a laravel/PHP Web Developer.
 - 🌱 Always Improving my self in Back-End Web Development.
 - 👀 I’m interested in Technologies, Photographing and Playing Video games ...
